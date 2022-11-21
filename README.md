@@ -6,23 +6,23 @@ The object of the puzzle is to move the entire tower to the third peg, but the p
 can only move one ring at a time, and a larger peg cannot be placed on top of a smaller
 peg.
 
-This:
+          This:
 
-          |                    |                    |          
-         ---                   |                    |          
-        -----                  |                    |          
-       -------                 |                    |          
-          |                    |                    |          
-===============================================================
+                    |                    |                    |          
+                   ---                   |                    |          
+                  -----                  |                    |          
+                 -------                 |                    |          
+                    |                    |                    |          
+          ===============================================================
 
-Must become this:
+          Must become this:
 
-          |                    |                    |          
-          |                    |                   ---         
-          |                    |                  -----        
-          |                    |                 -------       
-          |                    |                    |          
-===============================================================
+                    |                    |                    |          
+                    |                    |                   ---         
+                    |                    |                  -----        
+                    |                    |                 -------       
+                    |                    |                    |          
+          ===============================================================
 
   
 My solution was made specifically with the challenge of moving data.  Most solutions
