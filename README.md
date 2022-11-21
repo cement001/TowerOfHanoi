@@ -1,7 +1,7 @@
 # TowerOfHanoi
 Python algorithm to solve the Tower Of Hanoi puzzle by data movement
 
-The Tower of Hanoi puzzle consists of 3 pegs with rings of ascending size on each peg.
+The Tower of Hanoi puzzle consists of 3 pegs with rings of descending size on each peg.
 The object of the puzzle is to move the entire tower to the third peg, but the player
 can only move one ring at a time, and a larger peg cannot be placed on top of a smaller
 peg.
